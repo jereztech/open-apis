@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.jereztech.openapis"},{"l":"com.jereztech.openapis.support"},{"l":"com.jereztech.openapis.v1.data"},{"l":"com.jereztech.openapis.v1.services"},{"l":"com.jereztech.openapis.v1.ws"}];updateSearchResults();
